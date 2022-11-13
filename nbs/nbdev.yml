@@ -1,0 +1,9 @@
+project:
+  output-dir: _docs
+
+website:
+  title: "nbdev_hello_world"
+  site-url: "https://yashwiai.github.io/nbdev_hello_world"
+  description: "Testing nbdev on google colab"
+  repo-branch: main
+  repo-url: "https://github.com/yashwiai/nbdev_hello_world"
